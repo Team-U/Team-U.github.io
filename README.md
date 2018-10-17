@@ -5,7 +5,7 @@
 This is a place for you to learn about us, find out what projects we are working on, and connect with us through our social media links below!
 
 ## Udacity alumni and GWG scholars:
-This is our hub to stay connected and collaberate on projects together. If you would like to participate, follow these steps:
+This is our hub to stay connected and collaborate on projects together. If you would like to participate, follow these steps:
 
 1. Fork this repo or edit this README directly with the connection info that you would like to share (use the same format as in the first list item in the ***Who we are*** section.)
 2. Once you've pushed your code to Github or saved the README directly, submit a pull request to this repo with your new fork. We will merge it ASAP! (it's actually just me at the moment... help!)
@@ -14,14 +14,4 @@ This is our hub to stay connected and collaberate on projects together. If you w
 5. Open to all suggestions on what we can make this so let's begin!
 
 ## Who we are:
-<ul>
-    <li>
-        <a href="https://github.com/chadpjontek">
-        <img src="https://github.com/chadpjontek/resources/raw/master/images/github.png" width="50" height="50" alt="Chad Pjontek's LinkedIn">
-         <a href="https://www.linkedin.com/in/chad-pjontek/">
-        <img src="https://github.com/chadpjontek/resources/raw/master/images/linkedin.png" width="50" height="50" alt="Chad Pjontek's LinkedIn">
-         </a>
-               <img src="https://github.com/chadpjontek/resources/raw/master/images/cp.jpg" width="50" height="50" alt="Chad Pjontek's picture">
-         <strong>Chad Pjontek</strong>
-    </li>
-</ul>
+* **Chad Pjontek** - [Github](https://github.com/chadpjontek) / [LinkedIn](https://www.linkedin.com/in/chad-pjontek/)
