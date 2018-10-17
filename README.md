@@ -15,3 +15,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 
 ## Who we are:
 * **Chad Pjontek** - [Github](https://github.com/chadpjontek) / [LinkedIn](https://www.linkedin.com/in/chad-pjontek/)
+* **Shannon Crabill** - [Github](https://github.com/scrabill) / [LinkedIn](https://www.linkedin.com/in/shannoncrabill/) / [Twitter](https://twitter.com/shannon_crabill) / [Blog](https://shannoncrabill.com/blog/)
