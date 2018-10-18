@@ -22,3 +22,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Anna Scott** - [Github](https://github.com/forfireonly) / [LinkedIn](www.linkedin.com/in/anna-scott-developer)
 * **Yash Singhal** - [Github](https://github.com/yashgyy) / [LinkedIn](https://www.linkedin.com/in/yashsinghaldev/)
 * **Abed Islam** - [Github](https://github.com/notacouch) / [LinkedIn](https://www.linkedin.com/in/notacouch/) / [Twitter](https://twitter.com/notacouch)
+* **Nilesh Arnaiya** - [Github](https://github.com/NileshArnaiya) / [LinkedIn](https://linkedin.com/in/nilesh-arnaiya-892150b0/)
