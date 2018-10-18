@@ -17,3 +17,5 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Chad Pjontek** - [Github](https://github.com/chadpjontek) / [LinkedIn](https://www.linkedin.com/in/chad-pjontek/)
 * **Shannon Crabill** - [Github](https://github.com/scrabill) / [LinkedIn](https://www.linkedin.com/in/shannoncrabill/) / [Twitter](https://twitter.com/shannon_crabill) / [Blog](https://shannoncrabill.com/blog/)
 * **Laurette Leadon** - [Github](https://github.com/psittacine)
+* **Nilesh Arnaiya** - [Github](https://github.com/NileshArnaiya) / [LinkedIn](https://linkedin.com/in/nilesh-arnaiya-892150b0/)
+
