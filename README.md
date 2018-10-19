@@ -25,4 +25,5 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Nilesh Arnaiya** - [Github](https://github.com/NileshArnaiya) / [LinkedIn](https://linkedin.com/in/nilesh-arnaiya-892150b0/)
 * **Brian Freeman** - [Github](https://github.com/AtlantaDancer) / [LinkedIn](https://www.linkedin.com/in/brian-freeman-41763739/)
 * **Caitlyn Woods** - [Github](https://github.com/catielynncodes)
+* **Joshua Ethridge** - [Github](https://github.com/jethridge13) / [LinkedIn](https://www.linkedin.com/in/joshua-ethridge/)
 * **Alejandra Gonzalez** - [Github](https://github.com/alejandra-gonzalez) / [LinkedIn](https://www.linkedin.com/in/alejandragonzalez2/)
