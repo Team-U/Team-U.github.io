@@ -27,3 +27,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Caitlyn Woods** - [Github](https://github.com/catielynncodes)
 * **Joshua Ethridge** - [Github](https://github.com/jethridge13) / [LinkedIn](https://www.linkedin.com/in/joshua-ethridge/)
 * **Alejandra Gonzalez** - [Github](https://github.com/alejandra-gonzalez) / [LinkedIn](https://www.linkedin.com/in/alejandragonzalez2/)
+* **Dave Brin** - [Github](https://github.com/davidjbrin) / [LinkedIn](https://www.linkedin.com/in/davidjbrin/)
