@@ -29,3 +29,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Alejandra Gonzalez** - [Github](https://github.com/alejandra-gonzalez) / [LinkedIn](https://www.linkedin.com/in/alejandragonzalez2/)
 * **Dave Brin** - [Github](https://github.com/davidjbrin) / [LinkedIn](https://www.linkedin.com/in/davidjbrin/)
 * **Amber Roberts** - [Github](https://github.com/AmberRoberts/) / [LinkedIn](https://www.linkedin.com/in/amberrobertsvt/)
+* **Kyle May** - [Github](https://github.com/kylelmay) / [LinkedIn](https://www.linkedin.com/in/kylelmay)
