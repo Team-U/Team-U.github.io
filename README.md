@@ -30,3 +30,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Dave Brin** - [Github](https://github.com/davidjbrin) / [LinkedIn](https://www.linkedin.com/in/davidjbrin/)
 * **Amber Roberts** - [Github](https://github.com/AmberRoberts/) / [LinkedIn](https://www.linkedin.com/in/amberrobertsvt/)
 * **Kyle May** - [Github](https://github.com/kylelmay) / [LinkedIn](https://www.linkedin.com/in/kylelmay)
+* **Sara Saleem** - [Github](https://github.com/ssaleem) / [LinkedIn](https://www.linkedin.com/in/saraasaleem/)
