@@ -28,3 +28,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Joshua Ethridge** - [Github](https://github.com/jethridge13) / [LinkedIn](https://www.linkedin.com/in/joshua-ethridge/)
 * **Alejandra Gonzalez** - [Github](https://github.com/alejandra-gonzalez) / [LinkedIn](https://www.linkedin.com/in/alejandragonzalez2/)
 * **Dave Brin** - [Github](https://github.com/davidjbrin) / [LinkedIn](https://www.linkedin.com/in/davidjbrin/)
+* **Michael A. Valentin** - [Github](https://github.com/mike1136) / [LinkedIn](https://www.linkedin.com/in/michael-valent%C3%ADn-12906aa2/)
