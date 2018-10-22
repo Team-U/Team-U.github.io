@@ -34,3 +34,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Spiros Tsevas** - [Github](https://github.com/spi-ros) / [LinkedIn](https://www.linkedin.com/in/spyridon-tsevas-2531b7155)
 * **Amy Carney** - [Github](https://github.com/digilou) / [LinkedIn](https://www.linkedin.com/in/carneyamy/)
 * **Sara Saleem** - [Github](https://github.com/ssaleem) / [LinkedIn](https://www.linkedin.com/in/saraasaleem/)
+* **Michael A. Valentin** - [Github](https://github.com/mike1136) / [LinkedIn](https://www.linkedin.com/in/michael-valent%C3%ADn-12906aa2/)
