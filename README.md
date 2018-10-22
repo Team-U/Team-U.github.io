@@ -32,3 +32,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Kyle May** - [Github](https://github.com/kylelmay) / [LinkedIn](https://www.linkedin.com/in/kylelmay)
 * **Naveen Kumar M** - [Github](https://github.com/Naveenkhasyap) / [LinkedIn](https://www.linkedin.com/in/naveen-kumar-m-6890a228/)
 * **Spiros Tsevas** - [Github](https://github.com/spi-ros) / [LinkedIn](https://www.linkedin.com/in/spyridon-tsevas-2531b7155)
+* **Amy Carney** - [Github](https://github.com/digilou) / [LinkedIn](https://www.linkedin.com/in/carneyamy/)
