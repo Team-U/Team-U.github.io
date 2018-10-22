@@ -29,5 +29,6 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Alejandra Gonzalez** - [Github](https://github.com/alejandra-gonzalez) / [LinkedIn](https://www.linkedin.com/in/alejandragonzalez2/)
 * **Dave Brin** - [Github](https://github.com/davidjbrin) / [LinkedIn](https://www.linkedin.com/in/davidjbrin/)
 * **Amber Roberts** - [Github](https://github.com/AmberRoberts/) / [LinkedIn](https://www.linkedin.com/in/amberrobertsvt/)
-* **Kyle May** - [Github](https://github.com/kylelmay) / [LinkedIn](https://www.linkedin.com/in/kylelmay)#
+* **Kyle May** - [Github](https://github.com/kylelmay) / [LinkedIn](https://www.linkedin.com/in/kylelmay)
+* **Naveen Kumar M** - [Github](https://github.com/Naveenkhasyap) / [LinkedIn](https://www.linkedin.com/in/naveen-kumar-m-6890a228/)
 * **Spiros Tsevas** - [Github](https://github.com/spi-ros) / [LinkedIn](linkedin.com/in/spyridon-tsevas-2531b7155)
