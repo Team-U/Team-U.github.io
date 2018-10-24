@@ -15,7 +15,6 @@ This is our hub to stay connected and collaborate on projects together. If you w
 5. Open to all suggestions on what we can make this so let's begin!
 
 ## Who we are:
-### Mobile Web Specialist
 * **Chad Pjontek** - [Mobile Web Specialist](https://confirm.udacity.com/PQPKPWKC) - [Github](https://github.com/chadpjontek) / [LinkedIn](https://www.linkedin.com/in/chad-pjontek/)
 * **Shannon Crabill** - [Github](https://github.com/scrabill) / [LinkedIn](https://www.linkedin.com/in/shannoncrabill/) / [Twitter](https://twitter.com/shannon_crabill) / [Blog](https://shannoncrabill.com/blog/)
 * **Laurette Leadon** - [Github](https://github.com/psittacine)
