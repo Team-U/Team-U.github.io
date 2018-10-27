@@ -26,4 +26,5 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Brian Freeman** - [Github](https://github.com/AtlantaDancer) / [LinkedIn](https://www.linkedin.com/in/brian-freeman-41763739/)
 * **Caitlyn Woods** - [Github](https://github.com/catielynncodes)
 * **Ramona Saintandre** / [LinkedIn](https://www.linkedin.com/in/ramona-saintandre/) /
-[Github](https://github.com/thenewmona)
+[Github](https://github.com/thenewmona)/
+[Facebook](https://www.facebook.com/ramona.saintandre)
