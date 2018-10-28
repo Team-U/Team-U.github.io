@@ -35,3 +35,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Sara Saleem** - [Github](https://github.com/ssaleem) / [LinkedIn](https://www.linkedin.com/in/saraasaleem/)
 * **Michael A. Valentin** - [Github](https://github.com/mike1136) / [LinkedIn](https://www.linkedin.com/in/michael-valent%C3%ADn-12906aa2/)
 * **Craig R. Albertson** - [Github](https://github.com/wildaces215) / [LinkedIn](https://www.linkedin.com/in/craig-a-7bb14715b/)
+* **Ramona Saintandre** - [LinkedIn](https://www.linkedin.com/in/ramona-saintandre/) / [Github](https://github.com/thenewmona)
