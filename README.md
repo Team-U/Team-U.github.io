@@ -1,7 +1,7 @@
 # Team-U :mortar_board:
 *An unofficial group of [Udacity Alumni](https://www.udacity.com/) and [Grow with Google Scholars](https://www.udacity.com/grow-with-google) staying connected through code and collaboration*
 
-<img src="https://github.com/chadpjontek/resources/raw/master/images/team-u-logo.png" style="width: 300px;" alt="Team-U logo">
+<img src="https://github.com/chadpjontek/resources/raw/master/images/team-u-logo.jpg" alt="Team-U logo">
 
 ## Visitors:
 This is a place for you to learn about us, find out what projects we are working on, and connect with us through our social media links below!
