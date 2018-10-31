@@ -1,6 +1,8 @@
 # Team-U :mortar_board:
 *An unofficial group of [Udacity Alumni](https://www.udacity.com/) and [Grow with Google Scholars](https://www.udacity.com/grow-with-google) staying connected through code and collaboration*
 
+<img src="https://github.com/chadpjontek/resources/raw/master/images/team-u-logo.jpg" alt="Team-U logo">
+
 ## Visitors:
 This is a place for you to learn about us, find out what projects we are working on, and connect with us through our social media links below!
 
@@ -12,6 +14,7 @@ This is our hub to stay connected and collaborate on projects together. If you w
 3. If you would like to help maintain this group please let me know! Contact me on Slack and I'll set you up with admin privileges.
 4. Start your own projects here! Let's build some amazing things! We have a large pool of people with lots of different skills. This can be a great way to get even more experience working as a team as well as get help on ideas that you have!
 5. Open to all suggestions on what we can make this so let's begin!
+6. If you're not sure what to do, check the [current projects](https://github.com/orgs/Team-U/projects), [create your own](https://github.com/orgs/Team-U/projects), [start a team](https://github.com/orgs/Team-U/teams), [join a team](https://github.com/orgs/Team-U/teams) or find issues to contribute to. Also join us on the [**Team-U Slack!**](https://join.slack.com/t/team-u-devs/shared_invite/enQtNDYwNzU3NjI4NzU0LTUwZmMzYjQ1ODIzYTI0NjE4N2Y2YTRkYmEzNTg5ZWVmODVmMTJhYmZiNjU1Y2M0ZmEyZGRiOWYwYjlhNjU1ZDY)
 
 ## Who we are:
 * **Chad Pjontek** - [Mobile Web Specialist](https://confirm.udacity.com/PQPKPWKC) - [Github](https://github.com/chadpjontek) / [LinkedIn](https://www.linkedin.com/in/chad-pjontek/)
