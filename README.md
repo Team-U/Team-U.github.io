@@ -42,3 +42,4 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Dave Gray** - [Mobile Web Specialist](https://confirm.udacity.com/DFXPQNDC) - [Github](https://github.com/gitdagray) / [LinkedIn](https://www.linkedin.com/in/davidagray/)
 * **Kaisma Penn-Titley** - [GitHub](https://github.com/bviengineer)
 * **Anshdeep Singh** - [Android Developer](https://confirm.udacity.com/7GGDCXGQ) - [Github](https://github.com/ansh94) / [LinkedIn](https://www.linkedin.com/in/anshdeepsingh94/)
+* **Juwana Zerman** - [Front-end Developer](https://graduation.udacity.com/nd001) - [Github](https://github.com/JZerman2018) / [LinkedIn](https://www.linkedin.com/in/juwana-zerman/)
