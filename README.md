@@ -17,6 +17,7 @@ This is our hub to stay connected and collaborate on projects together. If you w
 6. If you're not sure what to do, check the [current projects](https://github.com/orgs/Team-U/projects), [create your own](https://github.com/orgs/Team-U/projects), [start a team](https://github.com/orgs/Team-U/teams), [join a team](https://github.com/orgs/Team-U/teams) or find issues to contribute to. Also join us on the [**Team-U Slack!**](https://join.slack.com/t/team-u-devs/shared_invite/enQtNDYwNzU3NjI4NzU0LTUwZmMzYjQ1ODIzYTI0NjE4N2Y2YTRkYmEzNTg5ZWVmODVmMTJhYmZiNjU1Y2M0ZmEyZGRiOWYwYjlhNjU1ZDY)
 
 ## Who we are:
+* **Anthony E. Alvarez** - [Mobile Web Specialist](https://confirm.udacity.com/LK9QGTG5) - [Github](https://github.com/anthonyalvarez) / [LinkedIn](http://www.linkedin.com/in/aalvarez/) / [Twitter](https://twitter.com/AnthonyEAlvarez) / [Blog](http://AnthonyAlvarez.us)
 * **Chad Pjontek** - [Mobile Web Specialist](https://confirm.udacity.com/PQPKPWKC) - [Github](https://github.com/chadpjontek) / [LinkedIn](https://www.linkedin.com/in/chad-pjontek/)
 * **Shannon Crabill** - [Github](https://github.com/scrabill) / [LinkedIn](https://www.linkedin.com/in/shannoncrabill/) / [Twitter](https://twitter.com/shannon_crabill) / [Blog](https://shannoncrabill.com/blog/)
 * **Laurette Leadon** - [Github](https://github.com/psittacine)
