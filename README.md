@@ -21,7 +21,7 @@ This is our hub to stay connected and collaborate on projects together. If you w
 * **Chad Pjontek** - [Mobile Web Specialist](https://confirm.udacity.com/PQPKPWKC) - [Github](https://github.com/chadpjontek) / [LinkedIn](https://www.linkedin.com/in/chad-pjontek/)
 * **Shannon Crabill** - [Github](https://github.com/scrabill) / [LinkedIn](https://www.linkedin.com/in/shannoncrabill/) / [Twitter](https://twitter.com/shannon_crabill) / [Blog](https://shannoncrabill.com/blog/)
 * **Laurette Leadon** - [Github](https://github.com/psittacine)
-* **Patrícia Silva** - [Github](https://github.com/PlaySnowi) / [LinkedIn](https://www.linkedin.com/in/patriciarrsilva/)
+* **Patrícia Silva** - [Front-End Web Developer](https://confirm.udacity.com/WLN53EDK) - [Github](https://github.com/patriciarrsilva) / [LinkedIn](https://www.linkedin.com/in/patriciarrsilva/)
 * **Anna Scott** - [Github](https://github.com/forfireonly) / [LinkedIn](https://www.linkedin.com/in/anna-scott-developer)
 * **Yash Singhal** - [Github](https://github.com/yashgyy) / [LinkedIn](https://www.linkedin.com/in/yashsinghaldev/)
 * **Abed Islam** - [Github](https://github.com/notacouch) / [LinkedIn](https://www.linkedin.com/in/notacouch/) / [Twitter](https://twitter.com/notacouch)
